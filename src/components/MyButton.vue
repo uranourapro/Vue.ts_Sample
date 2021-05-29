@@ -1,5 +1,5 @@
 <template>
-  <button @click="onClick">SampleButton</button>
+  <button @click="onClick">MyButton</button>
 </template>
 
 <script lang="ts">
